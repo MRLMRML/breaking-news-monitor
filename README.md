@@ -1,5 +1,7 @@
 # Breaking News Monitor
 
+[![收录于 JerryKing's Trove](https://img.shields.io/badge/收录于-JerryKing's%20Trove-blue)](https://github.com/MRLMRML/JerryKing-s-Trove)
+
 A lightweight, zero-cost breaking news detection skill for AI agents. Designed for high-frequency polling (every 5 minutes) with minimal token consumption.
 
 ## How It Works
